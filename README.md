@@ -1,15 +1,15 @@
 # 👋 Hello, I’m Rhuan Gabriel
 
-💻 Software Engineer | Full Stack Developer  
-🧠 Strong focus on back-end development, APIs, scalable systems, and integrations  
-🚀 I build robust, high-performance, and well-architected solutions
+💻 Software Engineer  
+🧠 Focused on back-end development, APIs, system architecture, and scalable solutions  
+🚀 I build robust, high-performance, and well-structured software
 
 ---
 
 ## 🧠 About Me
-I’m an 18-year-old **Full Stack Software Engineer** with a strong preference for **back-end development**.  
-I enjoy building systems from the ground up, solving complex problems, and working with architecture, performance, and real-world integrations.  
-For me, programming is not just coding — it’s **engineering**.
+I’m an 18-year-old **Software Engineer** with a strong focus on **back-end development**.  
+I enjoy designing systems from the ground up, solving complex problems, and working with architecture, performance, and real-world integrations.  
+For me, software development is not just coding — it’s **engineering**.
 
 ---
 
